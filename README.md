@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando em com desenvolvimento Backend
 - 📖 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
 - 📫 Entre em contato comigo:
--
+
 <div>
   <a href="https://www.instagram.com/arthurr2415" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "dev.arthur15@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
