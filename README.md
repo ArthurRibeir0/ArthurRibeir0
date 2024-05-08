@@ -4,6 +4,8 @@
 - 🛠️ Atualmente estou trabalhando com desenvolvimento Backend
 - 📖 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
 
+## 
+
 <div>
   <a href="https://github.com/ArthurRibeir0">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRibeir0&layout=compact&langs_count=7&theme=dark"/>
@@ -11,8 +13,8 @@
   </a>
 </div>
 
-## 
 ## Tecnologias
+
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" width="40" height="40"/>
