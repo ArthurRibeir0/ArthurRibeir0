@@ -1,10 +1,9 @@
 # Olá, me chamo Arthu Ribeiro ! 
+
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🛠️ Atualmente estou trabalhando com desenvolvimento Backend
 - 📖 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
-
-## 
 
 <div>
   <a href="https://github.com/ArthurRibeir0">
