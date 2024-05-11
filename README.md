@@ -1,4 +1,4 @@
-# Olá, me chamo Arthur Ribeiro ! 
+# Olá, me chamo Arthur Ribeiro! 
 
 ## Bem vindo ao meu perfil GitHub 👋
 
